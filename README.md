@@ -81,3 +81,30 @@ TV series database
   <img src="https://github.com/Parulshandilya/LNMHacks-3.0-Submission/blob/master/HackThree/images/TVSeriesDataBase.png" width="500" title="hover text">
 </p>
 
+dataInCSV
+
+<p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/dataInCSV.png" width="500" title="hover text">
+</p>
+ 
+interface
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/interface.png" width="500" title="hover text">
+</p>
+ 
+ 
+movieRecommendation
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/movieRecommendation.jpg" width="500" title="hover text">
+</p>
+
+recommendedMovie
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/recommendedMovie.png" width="500" title="hover text">
+</p>
+
+scrappedTxtFile
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/scrappedTxtFile.png" width="500" title="hover text">
+</p>
+
