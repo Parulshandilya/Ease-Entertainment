@@ -1,0 +1,150 @@
+The Golden Age,Musical,2017,6.0
+Deep Burial,Musical,2017,6.0
+Blue Mountains,Musical,2017,6.0
+Moscow Never Sleeps,Musical,2017,6.0
+After Love,Musical,2017,6.0
+Walk of Fame,Musical,2017,6.0
+Division 19,Musical,2017,6.0
+Granny of the Dead,Musical,2017,6.0
+Bruja,Musical,2017,6.0
+Madraza,Musical,2017,6.0
+Needlestick,Musical,2017,6.0
+Star Wars: Episode VIII - The Last Jedi,Musical,2017,6.0
+Keep Watching,Musical,2017,6.0
+Wonder,Musical,2017,6.0
+Jake's Road,Musical,2017,6.0
+Hurricane Chasers,Musical,2017,6.0
+Skybound,Musical,2017,6.0
+Dead Giveaway: The Motion Picture,Musical,2017,6.0
+Going in Style,Musical,2017,6.0
+Moon Creek Cemetery,Musical,2017,6.0
+Until We Meet Again,Musical,2017,6.0
+Sweet Virginia,Musical,2017,6.0
+Sand Castle,Musical,2017,6.0
+Flower,Musical,2017,6.0
+Discarnate,Musical,2017,6.0
+American Bistro,Musical,2017,6.0
+Le Fidèle,Musical,2017,6.0
+44 at Melrose,Musical,2017,6.0
+The Further Adventures of Anse and Bhule in No-man's Land,Musical,2017,6.0
+The Outcasts,Musical,2017,6.0
+Broken Chains,Musical,2017,6.0
+Verdwijnen,Musical,2017,6.0
+Lotanna,Musical,2017,6.0
+Leatherface,Musical,2017,6.0
+Closer to Bottom,Musical,2017,6.0
+One Dark Secret,Musical,2017,6.0
+The Ascent,Musical,2017,6.0
+A Crack in Everything,Musical,2017,6.0
+Kill or be Killed,Musical,2017,6.0
+I Hate You,Musical,2017,6.0
+Ezer Kenegdo,Musical,2017,6.0
+Little Notes to Heaven,Musical,2017,6.0
+Austin Found,Musical,2017,6.0
+The Hunter's Prayer,Musical,2017,6.0
+Churchill,Musical,2017,6.0
+Life Changes Everything: Discover Zac Ryan,Musical,2017,6.0
+El Ganador,Musical,2017,6.0
+My Time To Go,Musical,2017,6.0
+Submission,Musical,2017,6.0
+Holed-Up,Musical,2017,6.0
+Hip Hop City,Musical,2017,6.5
+Cometa: Him, His Dog and their World,Musical,2017,6.5
+Dwoje biednych Rumunow mowiacych po Polsku,Musical,2017,6.5
+Por Onde Escapam As Palavras,Musical,2017,6.5
+Ayana,Musical,2017,6.5
+A Fera na Selva,Musical,2017,6.5
+Alien Reign of Man,Musical,2017,6.5
+Juego siniestro,Musical,2017,6.5
+18 Hours,Musical,2017,6.5
+Napoli velata,Musical,2017,6.5
+Il premio,Musical,2017,6.5
+Last Thug Standing,Musical,2017,6.5
+La ragazza nella nebbia,Musical,2017,6.5
+Something to Lose,Musical,2017,6.5
+Shreelancer,Musical,2017,6.5
+My Little Baby, Jaya,Musical,2017,6.5
+Irritable,Musical,2017,6.5
+The Day I Met Her,Musical,2017,6.5
+Unfinished Business,Musical,2017,6.5
+Pirates 1.0,Musical,2017,6.5
+The Savage Tales of Frank MacGuffin,Musical,2017,6.5
+The Lonesome,Musical,2017,6.5
+Sonata,Musical,2017,6.5
+Fe de etarras,Musical,2017,6.5
+Nur eta herensugearen tenplua,Musical,2017,6.5
+Foxtrot,Musical,2017,6.5
+Chitose no itohime,Musical,2017,6.5
+Den störste,Musical,2017,6.5
+Aadha Love,Musical,2017,6.5
+Life of the Party,Musical,2017,6.5
+Noi eravamo,Musical,2017,6.5
+Dear Other Self,Musical,2017,6.5
+A Second Chance,Musical,2017,6.5
+La guerra dei cafoni,Musical,2017,6.5
+The Darlings,Musical,2017,6.5
+Il mondo di mezzo,Musical,2017,6.5
+Local Kung Fu 2,Musical,2017,6.5
+Le ciel étoilé au-dessus de ma tête,Musical,2017,6.5
+Milice 2,Musical,2017,6.5
+Duk gai,Musical,2017,6.5
+Bar Boys,Musical,2017,6.5
+Two Gentlemen of Verona,Musical,2017,6.5
+La Humillación,Musical,2017,6.5
+Tueurs,Musical,2017,6.5
+The Guardians,Musical,2017,6.5
+Nel mondo grande e terribile,Musical,2017,6.5
+Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe,Musical,2017,6.5
+Wild Woman,Musical,2017,6.5
+The Widow Man,Musical,2017,6.5
+Dark House,Musical,2017,6.5
+In the Wild,Musical,2017,7.2
+Meyaadha Maan,Musical,2017,7.2
+The Story of Drifting Cities,Musical,2017,7.2
+Embryos,Musical,2017,7.2
+Discharged,Musical,2017,7.2
+Special World in the House,Musical,2017,7.2
+A Man Born for Philately and Numismatics,Musical,2017,7.2
+Highway 318,Musical,2017,7.2
+The Vegetarian,Musical,2017,7.2
+The Tragedy of Jimmy Jimmy Kates,Musical,2017,7.2
+Paw Patrol: Mission Big Screen,Musical,2017,7.2
+People Like Me,Musical,2017,7.2
+Kalio pente kai sto heri,Musical,2017,7.2
+Soyer,Musical,2017,7.2
+Mutluluk Zamani,Musical,2017,7.2
+Sen Kiminle Dans Ediyorsun?,Musical,2017,7.2
+Moi et le Che,Musical,2017,7.2
+Dintii,Musical,2017,7.2
+Awake,Musical,2017,7.2
+Projapoti Biskut,Musical,2017,7.2
+Bölük,Musical,2017,7.2
+Yol Arkadasim,Musical,2017,7.2
+Monster Pool: Seven Deadly Sins,Musical,2017,7.2
+Martini Bombini O'Feeney Moonay,Musical,2017,7.2
+OHA Diyorum,Musical,2017,7.2
+La notte che verrà: The night that will come,Musical,2017,7.2
+Dünyanin En Güzel Kokusu 2,Musical,2017,7.2
+Aci Tatli Eksi,Musical,2017,7.2
+Death & Life,Musical,2017,7.2
+I couldn't Make This Stuff Up,Musical,2017,7.2
+That Was My Only Mistake,Musical,2017,7.2
+Kodiveeran,Musical,2017,7.2
+Something Fun,Musical,2017,7.2
+Victor's History,Musical,2017,7.2
+Arder,Musical,2017,7.2
+It: Fan film,Musical,2017,7.2
+Narayan,Musical,2017,7.2
+Verloren dochter,Musical,2017,7.2
+Sugar,Musical,2017,7.2
+Kartinki, narisovannye v chasi zakata i rassveta,Musical,2017,7.2
+Writing on Snow,Musical,2017,7.2
+Uncaged: TAS,Musical,2017,7.2
+Vizhithiru,Musical,2017,7.2
+Sangu Chakkaram,Musical,2017,7.2
+Anonymous Spirits,Musical,2017,7.2
+Dalkomhan chaejjik,Musical,2017,7.2
+Drew Lynch: Did I Stutter,Musical,2017,7.2
+Trys Milijonai Euru,Musical,2017,7.2
+Posesif,Musical,2017,7.2
+La Controfigura,Musical,2017,7.2
