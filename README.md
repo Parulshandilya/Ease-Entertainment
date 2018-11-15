@@ -1,17 +1,19 @@
 # Ease Entertainment
 ## Summary
-Functionality 1: The given project will save the community from all the spoilers of their favourite tv series hovering around and to recommend top five movies according to their genre. The main aim of the project is to send an email to the user that contains the information about the Air Date of episode of the TV series a user likes ( air date = Date on which the episode will be broadcasted). It enables user to register for themself.
-Functionality 2: This will recommend movies on the basis of user choice of genre. It enables user to register for themself.
+###### Functionality 1
+The given project will save the community from all the spoilers of their favourite tv series hovering around and to recommend top five movies according to their genre. The main aim of the project is to send an email to the user that contains the information about the Air Date of episode of the TV series a user likes ( air date = Date on which the episode will be broadcasted). 
+It enables user to register for themself.
+List of favourite TV Series is stored in the MySQL DataBase and mailed to all the registered user on their registered email address on demand.
+###### Functionality 2
+This will recommend movies on the basis of user choice of genre. It enables user to register for themself.
 Scrapped 10000 movie data from imdb and processed it to recommend movie to user.
-Web Scraping in Python : Scraped Site imdb
-https://www.imdb.com/
-## Input 
- ##### For TV Series Status
-  User email
-  List of Tv series user like
- ##### For Movie Recommendation
-  User email
-  List of genre user like
+It enables user to register for themself.
+List of recommended movies mailed to  user on demand.
+Language: Python
+Concepr: Web Scraping
+Scraped Site: https://www.imdb.com/
+
+
 ## Getting Started
 
 ### Dependencies
