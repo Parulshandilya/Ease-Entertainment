@@ -9,8 +9,10 @@ This will recommend movies on the basis of user choice of genre. It enables user
 Scrapped 10000 movie data from imdb and processed it to recommend movie to user.
 It enables user to register for themself.
 List of recommended movies mailed to  user on demand.
+
+###### Tools and Technologies
 Language: Python
-Concepr: Web Scraping
+Concept: Web Scraping
 Scraped Site: https://www.imdb.com/
 
 
@@ -48,7 +50,7 @@ MysqlPassword="My password"
 Your Gmail should allow third party apps(Less secure apps) to send mails.
 
 Usage
-Run main.py in terminal and enter your choice of function.
+Run main.py in terminal and enter your choice of functions as per the instructions
 For TV Series format to enter data:
 Enter user email address
 example: sample@gmail.com
@@ -56,42 +58,51 @@ Enter tv series information requirement separating with comma
 example: Game of thrones, black mirror, da vinci demons, breaking bad
 For Movies format to enter data:
 Enter your genre list seperated with ","(comma)
-ScrapedDataTxt
- <p align="center">
-  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/ScrapedDataTxt.png" width="500" title="hover text">
-</p>
- 
+example: Sci-Fi,Horror
 
-TVSeriesDataBase
+## Screenshots
+### TV Series
+
+
+##### TV Series DataBase
 
 <p align="center">
     <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/TVSeriesDataBase.png" width="500" title="hover text">
   </p>
 
+##### Interface
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/interface.png" width="500" title="hover text">
+</p>
 
-dataInCSV
+### Movies
+
+##### Scraped Data Txt Files
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/ScrapedDataTxt.png" width="500" title="hover text">
+</p>
+ 
+
+
+##### dataInCSV
 
 <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/dataInCSV.png" width="500" title="hover text">
 </p>
  
-interface
- <p align="center">
-  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/interface.png" width="500" title="hover text">
-</p>
  
  
-movieRecommendation
+###### movieRecommendation
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/movieRecommendation.jpg" width="500" title="hover text">
 </p>
 
-recommendedMovie
+##### recommendedMovie
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/recommendedMovie.png" width="500" title="hover text">
 </p>
 
-scrappedTxtFile
+##### scrappedTxtFile
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/scrappedTxtFile.png" width="500" title="hover text">
 </p>
