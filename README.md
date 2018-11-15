@@ -1,25 +1,25 @@
-#Ease Entertainment
+# Ease Entertainment
 
 The given project will save the community from all the spoilers of their favourite tv series hovering around and to recommend top five movies according to their genre
 The main aim of the project is to send an email to the user that contains the information about the Air Date of episode of the TV series a user likes ( air date = Date on which the episode will be broadcasted)
 
 
-##Input 
+## Input 
   User email
   List of Tv series user like
 
-##Getting Started
+## Getting Started
 
-###Dependencies
+### Dependencies
 
-####1. Make sure these libraries are installed in your system
-#####Libraries:
+#### 1. Make sure these libraries are installed in your system
+##### Libraries:
 smtplib
 urllib
 bs4 ( BeautifulSoup)
 datetime
 Mysql.connector
-#####Installation
+##### Installation
 Installing dependencies:
 sudo apt-get install python3-mysql.connector
 sudo apt-get install python3-bs4
@@ -31,7 +31,7 @@ Password="Your_Password"
 Enter Password of your email addres​ s
 
 Enter host name, username and password of your mysql
-​ #Mysql
+​ # Mysql
 MysqlHost="Your_Host_Name"
 MysqlUser="Your_User_Name"
 MysqlPassword="Your_password"
