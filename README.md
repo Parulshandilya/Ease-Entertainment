@@ -49,6 +49,19 @@ Enter tv series information requirement separating with comma
 example: Game of thrones, black mirror, da vinci demons, breaking bad
 
 
+ScrapedDataTxt
+ <p align="center">
+  <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/ScrapedDataTxt.png" width="500" title="hover text">
+</p>
+ 
+
+TVSeriesDataBase
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/TVSeriesDataBase.png" width="500" title="hover text">
+  </p>
+
+
 dataInCSV
 
 <p align="center">
@@ -75,4 +88,3 @@ scrappedTxtFile
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/scrappedTxtFile.png" width="500" title="hover text">
 </p>
-
