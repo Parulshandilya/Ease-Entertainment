@@ -92,17 +92,17 @@ example: Sci-Fi,Horror
  
  
  
-###### movieRecommendation
+###### Movie Recommendation
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/movieRecommendation.jpg" width="500" title="hover text">
 </p>
 
-##### recommendedMovie
+##### Recommended Movies
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/recommendedMovie.png" width="500" title="hover text">
 </p>
 
-##### scrappedTxtFile
+##### Scrapped Txt File
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/scrappedTxtFile.png" width="500" title="hover text">
 </p>
