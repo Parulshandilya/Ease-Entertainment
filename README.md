@@ -59,7 +59,7 @@ example: Game of thrones, black mirror, da vinci demons, breaking bad
 For Movies format to enter data:
 Enter your genre list seperated with ","(comma)
 example: Sci-Fi,Horror
-
+Scrapped imdb
 ## Screenshots
 ### TV Series
 
