@@ -10,7 +10,7 @@ Scrapped 10000 movie data from imdb and processed it to recommend movie to user.
 It enables user to register for themself.
 List of recommended movies mailed to  user on demand.
 
-###### Tools and Technologies
+###### Tools and Technologies:
 Language: Python
 Concept: Web Scraping
 Scraped Site: https://www.imdb.com/
