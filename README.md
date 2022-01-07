@@ -106,5 +106,3 @@ Scrapped imdb
  <p align="center">
   <img src="https://github.com/Parulshandilya/Ease-Entertainment/blob/master/Images/scrappedTxtFile.png" width="500" title="hover text">
 </p>
-
-Future Scope: use django, kafka
